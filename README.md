@@ -21,8 +21,8 @@ Currently learning and working on personal and school projects to improve my tec
 
 ## 🚀 Projects
 
+- [RAG](https://github.com/Log-76/RAG):  Retrieval-Augmented Generation (RAG) system that answers natural-language questions about the vLLM codebase
 - [Call Me Maybe](https://github.com/Log-76/Call_Me_Maybe) : implementation of a highly reliable Function Calling framework using a Small Language Model (SLM)
-- **RAG** — Personal project around Retrieval-Augmented Generation
 - [A-Maze-ing](https://github.com/spacotto/A-Maze-ing) (Group projet): Python project that generates and solves mazes.
 - [Fly-in](https://github.com/Log-76/Fly-in): high-performance drone fleet simulation engine designed to coordinate multiple autonomous drones through a network
 
