@@ -21,7 +21,7 @@ Currently learning and working on personal and school projects to improve my tec
 
 ## 🚀 Projects
 
-- **Call Me Maybe** — School project
+- **[Call Me Maybe](https://github.com/Log-76/Call_Me_Maybe)** — School project
 - **RAG** — Personal project around Retrieval-Augmented Generation
 
 ---
