@@ -8,7 +8,7 @@
 I'm a student at 42 Le Havre, interested in Data, Artificial Intelligence and software development.
 Currently learning and working on personal and school projects to improve my technical skills.
 
-[linkedin](www.linkedin.com/in/logann-leriche)
+[Linkedin](https://www.linkedin.com/in/logann-leriche/)
 ---
 
 ## 🛠️ Technologies
