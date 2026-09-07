@@ -21,7 +21,7 @@ Currently learning and working on personal and school projects to improve my tec
 
 ## 🚀 Projects
 
-- **[Call Me Maybe](https://github.com/Log-76/Call_Me_Maybe)** — School project
+- [Call Me Maybe](https://github.com/Log-76/Call_Me_Maybe) : implementation of a highly reliable Function Calling framework using a Small Language Model (SLM)
 - **RAG** — Personal project around Retrieval-Augmented Generation
 
 ---
