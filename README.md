@@ -8,6 +8,7 @@
 I'm a student at 42 Le Havre, interested in Data, Artificial Intelligence and software development.
 Currently learning and working on personal and school projects to improve my technical skills.
 
+[linkedin](www.linkedin.com/in/logann-leriche)
 ---
 
 ## 🛠️ Technologies
@@ -32,11 +33,5 @@ Currently learning and working on personal and school projects to improve my tec
 - RAG and LLM technologies
 
 ---
-
-## 📫 Contact
-
-- Email: ton.email@example.com
-- LinkedIn: ton-linkedin
-- GitHub: ton-username
 
 📫 Feel free to explore my repositories and projects!
