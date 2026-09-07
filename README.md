@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Logann 👋
+Data/IA | student(42 Le Havre)
+
+About Me
 
 <!--
 **Log-76/Log-76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
