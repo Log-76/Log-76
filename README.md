@@ -3,15 +3,6 @@
 🎓 Student at 42 Le Havre
 🤖 Interested in Data & AI
 
----
-
-## 🟢 Currently looking for an apprenticeship (alternance)
-
-I'm actively searching for a **work-study contract (alternance)** in Data, AI or Software Development.
-Feel free to reach out if you have an opportunity or want to chat!
-
----
-
 ## 👨‍💻 About Me
 
 I'm a student at 42 Le Havre, interested in Data, Artificial Intelligence and software development.
